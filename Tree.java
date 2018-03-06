@@ -5,7 +5,7 @@
  * over 12. 
  *************************************************************************/
 
-public class Art {
+public class Tree {
   // Drawing the Tree Trunk
   private static void trunk(double x0, double y0, double length, 
                             double width, double angle) { 
